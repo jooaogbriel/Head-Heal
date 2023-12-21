@@ -12,7 +12,7 @@ export default function Home() {
         <HeaderComponent />
       </div>
 
-      <div className={`bg-primary ${styles.flexStart}`}>
+      <div className={` ${styles.flexStart}`}>
         <div className={`${styles.boxWidth}`}>
           <Hero />
         </div>
